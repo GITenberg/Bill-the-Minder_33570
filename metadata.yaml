@@ -1,0 +1,38 @@
+_repo: Bill-the-Minder_33570
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 33570-h/images/i_cover_tn.jpg
+creator:
+  author:
+    agent_name: Robinson, W. Heath (William Heath)
+    alias: Robinson, William Heath
+    birthdate: 1872
+    deathdate: 1944
+    gutenberg_agent_id: '34723'
+    url: http://www.gutenberg.org/2009/agents/34723
+description: The story of a young boy who is able to keep little children entertained
+  and in good behavior, especially the bad-tempered ones.
+gutenberg_issued: '2010-08-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33570'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Babysitters -- Juvenile fiction'
+- !lcsh 'Kings and rulers -- Juvenile fiction'
+- !lcsh 'Humorous stories'
+- !lcc 'PZ'
+- !lcsh 'Fairy tales'
+- !lcsh 'Children''s stories'
+- !lcsh 'Voyages and travels -- Juvenile fiction'
+tableOfContents: Bill the minder -- The King of Troy -- The ancient mariner -- The
+  triplets -- Good Aunt Galladia -- The doctor -- The respectable gentleman -- The
+  Sicilian char-woman -- The interval -- The real soldier -- The wild man -- The musician
+  -- The lost grocer -- The merchant's wife -- The camp-followers -- The siege of
+  Troy -- The end.
+title: Bill the Minder
+url: http://www.gutenberg.org/ebooks/33570
