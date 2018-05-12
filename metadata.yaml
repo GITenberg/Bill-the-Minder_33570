@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34723
 description: The story of a young boy who is able to keep little children entertained
   and in good behavior, especially the bad-tempered ones.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33570#Bill-the-Minder
 gutenberg_issued: '2010-08-29'
 gutenberg_type: Text
 identifiers:
